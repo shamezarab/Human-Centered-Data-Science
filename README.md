@@ -2,7 +2,7 @@
 
 The goal of my project: 
 
-- The goal of my project was to give the public this vital information about the increasing population in the world. I wanted to choose a country that is not that big, but is slowly starting to get larger every year, Bremuda. Thus, I created a project demonstrating the rising population of the country 'Bremuda' through a timeline of over 50 years (52 Years Exactly). I feel like this project provides the public the knowledge we need to know more about different parts of the world and how fast it is growing every year.
+- The goal of my project was to give the public this vital information about the increasing population in the world. I wanted to choose a country that is not that big, but is slowly starting to get larger every year, Bermuda. Thus, I created a project demonstrating the rising population of the country 'Bermuda' through a timeline of over 50 years (52 Years Exactly). I feel like this project provides the public the knowledge we need to know more about different parts of the world and how fast it is growing every year.
 
 Links to any relevant API documentation: 
 
