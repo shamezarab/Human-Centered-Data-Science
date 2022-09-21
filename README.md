@@ -13,7 +13,7 @@ The license of your data and any source data
 A data type and description for each attribute in your data:
 
 Rank - Description: The rank of all of the countries in the world based on the following categories it is being graded on (Data Type: INT)
-CCA3 - Description: A three letter abreviation for all of the countries that are in the dataset(Data Type: String)
+CCA3 - Description: A three letter abreviation for all of the countries that are in the dataset (Data Type: String)
 Country	- Description: List of all of the different countries that are in the dataset (Data Type: String)
 Capital	- Description: List of all of the different capitals that are in the dataset (Data Type: String)
 Continent	- Description: List of all of the different continents that are in the dataset(Data Type: String)
