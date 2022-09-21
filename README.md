@@ -6,9 +6,12 @@ The goal of my project:
 
 Links to any relevant API documentation: 
 
-- https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
+- There is no API documentation in this code
 
-The license of your data and any source data
+The license of your data and any source data:
+
+- MIT License
+- https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
 A data type and description for each attribute in your data:
 
