@@ -1,16 +1,16 @@
 # Human-Centered-Data-Science
 
-- The goal of my project: 
+The goal of my project: 
 
 - The goal of my project was to give the public this vital information about the increasing population in the world. I wanted to choose a country that is not that big, but is slowly starting to get larger every year, Bremuda. Thus, I created a project demonstrating the rising population of the country 'Bremuda' through a timeline of over 50 years (52 Years Exactly). I feel like this project provides the public the knowledge we need to know more about different parts of the world and how fast it is growing every year.
 
-- Links to any relevant API documentation: 
+Links to any relevant API documentation: 
 
 - https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
 
-- The license of your data and any source data
+The license of your data and any source data
 
-- A data type and description for each attribute in your data:
+A data type and description for each attribute in your data:
 
 - Rank - Description: The rank of all of the countries in the world based on the following categories it is being graded on (Data Type: INT)
 - CCA3 - Description: A three letter abreviation for all of the countries that are in the dataset (Data Type: String)
@@ -31,6 +31,6 @@
 World Population Percentage - Description: The percentage of population that each of the countries in the data set have in the world (Data Type: Float and INT)
 
 
-- Any known issues or potential issues, such as sources of bias in collection:
+Any known issues or potential issues, such as sources of bias in collection:
 
 - There were no issues or biases that were detected in this data collection
